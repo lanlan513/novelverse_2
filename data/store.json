@@ -50,5 +50,97 @@
       },
       "sharedStatus": "shared"
     }
+  ],
+  "annotations": [
+    {
+      "id": "note-seed-daiyu",
+      "ownerId": "user-demo",
+      "chapterId": "ch-hlm-3",
+      "variantId": "base",
+      "type": "character",
+      "body": "初入贾府的行为准则，一个“惟恐”写出寄人篱下的自尊与敏感；也为黛玉此后的言行定调。",
+      "anchor": {
+        "start": 91,
+        "end": 126,
+        "quote": "步步留心，时时在意，不肯轻易多说一句话，多行一步路，惟恐被人耻笑了他去",
+        "context": "等仆妇，吃穿用度，已是不凡了，何况今至其家。因此步步留心，时时在意，不肯轻易多说一句话，多行一步路，惟恐被人耻笑了他去。\n自上了轿，进入城中，从纱窗向外瞧了一瞧，其街",
+        "contextOffset": 24
+      },
+      "createdAt": "2026-09-15T10:00:00.000Z",
+      "updatedAt": "2026-09-15T10:00:00.000Z",
+      "deletedAt": null
+    },
+    {
+      "id": "note-seed-xifeng",
+      "ownerId": "user-demo",
+      "chapterId": "ch-hlm-3",
+      "variantId": "base",
+      "type": "narrative",
+      "body": "先声夺人：满府“敛声屏气”，唯独王熙凤人未到笑先闻，用对比一笔立住人物的张扬地位。",
+      "anchor": {
+        "start": 845,
+        "end": 857,
+        "quote": "我来迟了，不曾迎接远客！",
+        "context": "形容尚小。\n一语未了，只听后院中有人笑声，说：“我来迟了，不曾迎接远客！”黛玉纳罕道：“这些人个个皆敛声屏气，恭肃严整如",
+        "contextOffset": 24
+      },
+      "createdAt": "2026-09-15T10:01:00.000Z",
+      "updatedAt": "2026-09-15T10:01:00.000Z",
+      "deletedAt": null
+    },
+    {
+      "id": "note-seed-meiyan",
+      "ownerId": "user-demo",
+      "chapterId": "ch-hlm-3",
+      "variantId": "base",
+      "type": "language",
+      "body": "对仗式的水畔意象群：姣花、弱柳都以“柔弱中的美”写黛玉，连用比喻而不堆砌，节奏舒缓。",
+      "anchor": {
+        "start": 1334,
+        "end": 1351,
+        "quote": "闲静时如姣花照水，行动处似弱柳扶风",
+        "context": "态生两靥之愁，娇袭一身之病。泪光点点，娇喘微微。闲静时如姣花照水，行动处似弱柳扶风。心较比干多一窍，病如西子胜三分。\n宝玉看罢，因",
+        "contextOffset": 24
+      },
+      "createdAt": "2026-09-15T10:02:00.000Z",
+      "updatedAt": "2026-09-15T10:02:00.000Z",
+      "deletedAt": null
+    },
+    {
+      "id": "note-seed-shuaiyu",
+      "ownerId": "user-demo",
+      "chapterId": "ch-hlm-3",
+      "variantId": "base",
+      "type": "plot",
+      "body": "摔玉是宝黛关系的第一个高潮：以“玉不通灵”否定家族秩序，也第一次把两人命运绑在一起。",
+      "anchor": {
+        "start": 1617,
+        "end": 1629,
+        "quote": "什么罕物，连人之高低不择",
+        "context": "时发作起痴狂病来，摘下那玉，就狠命摔去，骂道：“什么罕物，连人之高低不择，还说‘通灵’不‘通灵’呢！我也不要这劳什子了！",
+        "contextOffset": 24
+      },
+      "createdAt": "2026-09-15T10:03:00.000Z",
+      "updatedAt": "2026-09-15T10:03:00.000Z",
+      "deletedAt": null
+    },
+    {
+      "id": "note-seed-yueliang",
+      "ownerId": "user-demo",
+      "chapterId": "ch-gx-1",
+      "variantId": "base",
+      "type": "symbol",
+      "body": "圆月与碧绿瓜田构成“故乡”最明亮的记忆图式，与开篇萧索荒村的现实色调形成首尾对照。",
+      "anchor": {
+        "start": 276,
+        "end": 291,
+        "quote": "深蓝的天空中挂着一轮金黄的圆月",
+        "context": "绪。\n这时候，我的脑里忽然闪出一幅神异的图画来：深蓝的天空中挂着一轮金黄的圆月，下面是海边的沙地，都种着一望无际的碧绿的西瓜，",
+        "contextOffset": 24
+      },
+      "createdAt": "2026-09-15T10:04:00.000Z",
+      "updatedAt": "2026-09-15T10:04:00.000Z",
+      "deletedAt": null
+    }
   ]
 }
